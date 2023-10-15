@@ -1,5 +1,3 @@
-import scala.util.Random
-
 object main
 {
   def main(args: Array[String]) ={
